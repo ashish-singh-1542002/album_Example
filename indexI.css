@@ -1,0 +1,32 @@
+body{
+    height: 1000px;
+}
+#parent{
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    color: black;
+    border: 5px solid black;
+}
+#child1{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    color: black;
+    border:5px solid black
+    
+}
+#child2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: black;
+    border: 5px solid black;
+}
+#child3{
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    color: black;
+    border: 5px solid black;
+}
